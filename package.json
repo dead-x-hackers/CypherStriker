@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "RAMA_SERVER": "file:Server"
+  }
+}
