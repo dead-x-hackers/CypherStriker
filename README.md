@@ -49,6 +49,6 @@ git clone https://github.com/dead-x-hackers/CypherStriker.git
 cd CypherStriker
 bash setup.sh
 ```
-
+## watch the tutorial here:"https://t.me/CypherStriker"
 
 
