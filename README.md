@@ -33,7 +33,7 @@ cd CypherStriker
 bash setup.sh
 ```
 ## NOTE:- 
-please manually decompile Google_system.apk provide in RAMA tool dirctory and put your ip/domain to assts/ip.txt
+please manually decompile Google_system.apk provide in CypherStriker tool dirctory and put your ip/domain to assts/ip.txt
 
 
 ### After done that you can run Cypherstriker with -l argument and give port where http server running.
